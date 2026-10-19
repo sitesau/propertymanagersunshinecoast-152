@@ -1,0 +1,22 @@
+{
+  "wheel_id": 479,
+  "structure": "umbrella",
+  "slug": "propertymanagersunshinecoast-152",
+  "project": "rental-management-sunshine-coast-013f8ed32743fb2c907f95216273d0",
+  "parent_t1_ref": "propertymanagersunshinecoast-012",
+  "node_role": "buffer",
+  "money_target": "propertymanagersunshinecoast.com.au",
+  "primary_kw": "rental management sunshine coast",
+  "intended_url": "https://sites-e470-2.web.app/rental-management-sunshine-coast-013f8ed32743fb2c907f95216273d0/",
+  "tier": "T2",
+  "writeback_nonce": "8260d4af9557689e",
+  "links": [
+    {
+      "target_url": "https://s3.ap-southeast-2.amazonaws.com/propertymanagersunshinecoast-012/rental-management-sunshine-coast.html",
+      "anchor": "a guide to rental management sunshine coast",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
